@@ -19,7 +19,7 @@
     "deploy:staging": "serverless deploy --stage qa"
   },
   "dependencies": {
-    "aws-sdk": "^2.641.0",
+    "aws-sdk": "^2.814.0",
     "googleapis": "^48.0.0",
     "prettier": "^1.19.1",
     "serverless": "^1.66.0"
